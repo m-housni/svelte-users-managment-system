@@ -1,2 +1,2 @@
-# Svelte Full Course 2022
+# Users Managment System built with svelte
 
